@@ -1,0 +1,5 @@
+#summary Using Barcode Scanner on Android to scan from a web page
+
+=We've Moved!=
+
+Please see https://github.com/zxing/zxing/wiki/Scanning-From-Web-Pages

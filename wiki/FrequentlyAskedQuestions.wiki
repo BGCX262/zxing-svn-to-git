@@ -1,0 +1,5 @@
+#summary Frequently Asked Questions about ZXing
+
+=We've Moved!=
+
+Please see https://github.com/zxing/zxing/wiki/Frequently-Asked-Questions

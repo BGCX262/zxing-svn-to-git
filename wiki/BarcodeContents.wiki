@@ -1,0 +1,5 @@
+#summary A rough guide to standard encoding of information in barcodes
+
+=We've Moved!=
+
+Please see https://github.com/zxing/zxing/wiki/Barcode-Contents

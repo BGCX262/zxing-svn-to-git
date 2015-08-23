@@ -1,0 +1,5 @@
+#summary Frequently asked questions about the project license and reuse of code
+
+=We've Moved!=
+
+Please see https://github.com/zxing/zxing/wiki/License-Questions

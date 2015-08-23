@@ -1,0 +1,4 @@
+#labels Deprecated
+= Question or Comment? =
+
+Please post to the discussion group at http://groups.google.com/group/zxing .

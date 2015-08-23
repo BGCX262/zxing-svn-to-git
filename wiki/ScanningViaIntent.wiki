@@ -1,0 +1,5 @@
+#summary Simple scanning on Android, by calling Barcode Scanner via Intent
+
+=We've Moved!=
+
+Please see https://github.com/zxing/zxing/wiki/Scanning-Via-Intent

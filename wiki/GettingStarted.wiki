@@ -1,0 +1,5 @@
+#summary How to start developing with ZXing
+
+=We've Moved!=
+
+Please see https://github.com/zxing/zxing/wiki/Getting-Started-Developing
